@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/home/robson/Projetos/py/aula_flask/venv/bin/python"
+}
